@@ -1,0 +1,14 @@
+---
+section: get-started
+title: Inizia subito
+entries:
+- title: Prima di iniziare
+  url: "/get-started/before_get_started.html"
+- title: Ottieni un token API
+  url: "/get-started/get_api_token.html"
+- title: Ciao mondo
+  url: "/get-started/hello_world.html"
+- title: Preparati a utilizzare i flussi di lavoro
+  url: "/get-started/prepare_to_use_workflows.html"
+- title: Concetti di base di Kubernetes
+  url: "/get-started/kubernetes_concepts.html"

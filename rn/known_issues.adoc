@@ -1,0 +1,26 @@
+---
+sidebar: sidebar 
+permalink: rn/known_issues.html 
+keywords: known issues, issues, bugs, fixes 
+summary: 'Si consiglia di esaminare tutti i problemi noti relativi alla release corrente relativi all"API REST di Astra Control. I problemi noti identificano i problemi che potrebbero impedire il corretto utilizzo del prodotto.' 
+---
+= Problemi noti
+:hardbreaks:
+:allow-uri-read: 
+:nofooter: 
+:icons: font
+:linkattrs: 
+:imagesdir: ./media/
+
+
+[role="lead"]
+Si consiglia di esaminare tutti i problemi noti relativi alla release corrente relativi all'API REST di Astra Control. I problemi noti identificano i problemi che potrebbero impedire il corretto utilizzo del prodotto.
+
+
+NOTE: Non ci sono nuovi problemi noti con la release 22.08 dell'API REST di Astra Control. I problemi descritti di seguito sono stati rilevati nelle release precedenti e sono ancora applicabili alla release corrente.
+
+
+
+== Non vengono rilevati tutti i dispositivi di storage in un nodo di storage back-end
+
+Quando si effettua una chiamata API REST per recuperare i dispositivi di storage definiti in un nodo di storage, vengono rilevati solo i dispositivi Astra Data Store. Non tutti i dispositivi vengono restituiti.
