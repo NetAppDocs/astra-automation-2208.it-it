@@ -664,7 +664,6 @@
   <block id="cea5f66f37995fb196323018a31600fc" category="cell">Contiene l'URL completo della risorsa appena creata.</block>
   <block id="6e2102ce7d7573c8b221194a86f7a48b" category="section-title">Parametri di query</block>
   <block id="7fec4843ebac2572cb7aba56b67d7ddb" category="inline-link-macro">Utilizzo delle raccolte</block>
-  <block id="b206801753ef0a6abfae5904e5c68a57" category="paragraph">I seguenti parametri di query sono disponibili per l'utilizzo con le raccolte di risorse. Vedere <block ref="114f30b2f00431234237350f516a01cf" category="inline-link-macro-rx"></block> per ulteriori informazioni.</block>
   <block id="ce73e1ed10f91fd167ae3d5803ce8dff" category="cell">Parametro di query</block>
   <block id="4d0d3b0c69167fef7204e14c4e946c15" category="cell">Contiene i campi che devono essere restituiti durante la lettura di una raccolta.</block>
   <block id="c6960e489ca14167f9bd9ace657e6790" category="cell">Indica i campi che devono corrispondere per la restituzione di una risorsa durante la lettura di una raccolta.</block>
@@ -678,7 +677,6 @@
   <block id="2974f783f17d54a41f4040c8daa90545" category="section-title">Codici di stato HTTP</block>
   <block id="175b29f6f8dd1aa8a166427b6bcd061c" category="paragraph">I codici di stato HTTP utilizzati dall'API REST di Astra Control sono descritti di seguito.</block>
   <block id="68f3bee395b27d2cbfdf4b021846dcca" category="inline-link-macro">Diagnostica e supporto</block>
-  <block id="ef69df9e80d5e1591d22bfe189aa737e" category="admonition">L'API REST di Astra Control utilizza anche lo standard *Problem Details for HTTP API*. Vedere <block ref="d9c154af7dec160f41ead610ccb970e9" category="inline-link-macro-rx"></block> per ulteriori informazioni.</block>
   <block id="ca0dbad92a874b2f69b549293387925e" category="cell">Codice</block>
   <block id="7277de5f2ed6f17c61f1f25594591a82" category="cell">Significato</block>
   <block id="3644a684f98ea8fe223c713b77189a77" category="cell">200</block>
@@ -1077,4 +1075,6 @@
   <block id="36b64aad8a26246fe3ad4116a2b6f289" category="sidebar">Diagnostica</block>
   <block id="7d0ee6fed10d3d4e5c9ee496729ab519" category="sidebar">Note di rilascio</block>
   <block id="33871b6190a8d5adbe8b15282054766c" category="sidebar">Novità</block>
+  <block id="c41fa1ca9e61ce922033f50c259cb7a3" category="paragraph">I seguenti parametri di query sono disponibili per l'utilizzo con le raccolte di risorse. Vedere <block ref="69d3926f8a91301f2a5a5c3d61b27821" category="inline-link-macro-rx"></block> per ulteriori informazioni.</block>
+  <block id="d9a8eedd670f58ed76d5ae881e6d4469" category="admonition">L'API REST di Astra Control utilizza anche lo standard *Problem Details for HTTP API*. Vedere <block ref="e560597744bc7b2711ae89c683c4035f" category="inline-link-macro-rx"></block> per ulteriori informazioni.</block>
 </blocks>
